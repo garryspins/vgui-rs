@@ -1,0 +1,10 @@
+[package]
+name = "vgui"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Temporary crate for a vgui system"
+homepage = "https://github.com/garryspins/vgui-rs"
+readme = "README.md"
+
+[dependencies]
